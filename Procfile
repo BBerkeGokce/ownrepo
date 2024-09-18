@@ -1,0 +1,1 @@
+                            web : python "C:\Users\berke\PycharmProjects\SentimentAnalysis\.venv\Lib\dsetTRAIN.py"
