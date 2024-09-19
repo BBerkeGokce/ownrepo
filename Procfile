@@ -1,1 +1,1 @@
-web: gunicorn dsetTRAIN:app
+                            web : gunicorn dsetTRAIN : app
