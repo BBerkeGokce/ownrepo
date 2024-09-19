@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+device =torch.device("cpu")
 hf_token = "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"
 
 
