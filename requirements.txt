@@ -1,12 +1,9 @@
 Flask==3.0.3
 gunicorn==23.0.0
-Werkzeug==3.0.4
-requests==2.32.3
-tqdm==4.66.5
-torch==2.4.1
-torchaudio>=2.4,<2.5
 transformers==4.44.2
+torch==2.4.1
 datasets==2.21.0
-stanza>=1.8,<1.9
-accelerate>=0.34,<0.35
-huggingface-hub==0.24.6
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+python-dotenv==1.0.1
